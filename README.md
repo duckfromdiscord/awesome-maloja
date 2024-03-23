@@ -16,6 +16,11 @@ Join the [maloja Unofficial Community Discord Server](https://discord.gg/TqkuVdn
 
 [podman](https://podman.io/get-started) - A more secure alternative to Docker that is compatible with existing Containerfiles. maloja is compatible with Docker and you can use the same image.
 
+## Compatibility
+This section describes ways to modify existing programs to work with maloja by redirecting already working scrobble clients to its recreated API endpoints like Audioscrobbler and Listenbrainz.
+
+[Logitech Media Server plugin](https://forums.slimdevices.com/forum/user-forums/3rd-party-software/109857-maloja-scobbler-support-with-modified-audioscrobbler-plugin) - A modification you can make to Logitech Media Server to scrobble to maloja's Audioscrobbler API endpoint.
+
 ## Frontends and Vizualizers
 
 [mljboard](https://github.com/mljboard/mljboard) - My maloja discord bot. WIP. You can link your maloja server to this bot through commands and you can show off the scrobble count for your favorite artists, albums, and tracks. 

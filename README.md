@@ -41,4 +41,6 @@ This section describes ways to modify existing programs to work with maloja by r
 
 [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - An Android scrobbler with native maloja support.
 
+[TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - A desktop music player with native maloja support.
+
 [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) - A wonderful extension for just about every browser, Web Scrobbler allows you to scrobble from (almost) every music streaming website out there, and if you find one that isn't supported, you can make a pull request to fix that. It has native maloja support.

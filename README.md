@@ -37,6 +37,8 @@ This section describes ways to modify existing programs to work with maloja by r
 
 [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) -  A self-hosted scrobble client that can take play data from multiple streaming services, and also Last.FM itself, and forwards to plenty of scrobble servers. Natively supports maloja! It is also one of the only scrobblers out there that will include a scrobble length when sending scrobbles to maloja. Allows scrobbling from Spotify, Deezer, MPRIS, and more.
 
+[myMPD](https://github.com/jcorporation/myMPD) - A MPD *client*, extendable through scripts. Adds a maloja scrobbler through a [script](https://github.com/jcorporation/mympd-scripts/tree/main/Maloja). Other scripts include a battery indicator, and web radio.
+
 [OngakuKiroku](https://github.com/Atelier-Shiori/OngakuKiroku) - A scrobbler for MacOS designed for Swinsian and iTunes. Native maloja scrobbling support.
 
 [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - An Android scrobbler with native maloja support.
